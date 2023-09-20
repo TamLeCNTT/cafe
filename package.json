@@ -10,6 +10,7 @@
     "bootstrap": "^5.3.1",
     "chart.js": "^4.4.0",
     "chartjs-plugin-datalabels": "^2.2.0",
+    "prettier": "^3.0.3",
     "react": "^18.2.0",
     "react-bootstrap": "^2.8.0",
     "react-bootstrap-select": "^0.14.0",
